@@ -27,8 +27,6 @@ void display_pyramid()
 	glVertex3f(0.0f, 1.0f, 0.0f);
 	glVertex3f(1.0f, -1.0f, -1.0f);
 	glVertex3f(1.0f, -1.0f, 1.0f);
-
-
 	glEnd();
 		glBegin(GL_POLYGON);
 		glColor3f(1.0f, 0.f, 0.3f);
